@@ -3,4 +3,5 @@
 - lime (£0.50)
 - salt	(£1.20)
 - garlic
+- red onion
 
