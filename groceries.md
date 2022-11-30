@@ -7,3 +7,4 @@ Salt (£1.50)
 Avocado (£2)
 Lime (£1.50)
 Salt (£2)
+Garlic
