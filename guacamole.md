@@ -1,4 +1,4 @@
 #ingredients
-- avocado
-- lime
-- salt
+- avocado (£1)
+- lime (£0.50)
+- salt	(£1.20)
